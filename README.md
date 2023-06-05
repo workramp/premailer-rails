@@ -1,3 +1,7 @@
+# ⚠ ARCHIVED ⚠ 
+
+No longer used or maintained now that https://github.com/fphilipe/premailer-rails/pull/260 has been merged.
+
 # premailer-rails
 
 CSS styled emails without the hassle.
